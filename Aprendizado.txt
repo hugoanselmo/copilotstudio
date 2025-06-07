@@ -1,0 +1,8 @@
+Neste conteúdo aprendemos como criar e configurar ambientes.
+Aprendemos como acessar o Copilot Studio e criar uma solução.
+Aprendemos quais são as possíveis ferramentas que podem ser usadas.
+Aprendemos que o Dataverse pode ser utilizados.
+Aprendemos sobre permissões para usuários e grupos.
+Aprendemos como criar um agente através de descrição.
+Aprendemos como criar um agente baseado em um modelo.
+Aprendemos como criar um agente em branco.
